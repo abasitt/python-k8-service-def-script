@@ -7,4 +7,5 @@ Requirements:
 - pip3
 - openpyxl
 - jinja2
+
 The script was run on Ubuntu 20.04
